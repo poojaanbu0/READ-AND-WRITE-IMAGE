@@ -19,11 +19,16 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By:
-### Register Number: 
+### Developed By: POOJA A
+### Register Number: 212222240072
 i) #To Read,display the image
 ```
-  
+  import cv2
+image=cv2.imread('blue.jpg',1)
+image=cv2.resize(image,(400,300))
+cv2.imshow('ROHIT JAIN',image)
+cv2.waitKey(0)
+cv2.destroyAllWindows() 
 
 ```
 ii) #To write the image
