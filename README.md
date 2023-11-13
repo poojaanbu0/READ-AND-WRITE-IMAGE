@@ -1,12 +1,16 @@
 # READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
+
 i) Read, display, and write an image.
+
 ii) Access the rows and columns in an image.
+
 iii) Cut and paste a small portion of the image.
 
 ## Software Required:
 Anaconda - Python 3.7
+
 ## Algorithm:
 ### Step1:
 Choose an image and save it as a filename.jpg
@@ -58,7 +62,6 @@ new = image[200:450,200:450]
 image[150:400,150:400] = new
 cv2_imshow(image)
 cv2.waitKey(0)
-
 
 ```
 
