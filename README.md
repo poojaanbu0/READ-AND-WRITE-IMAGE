@@ -27,13 +27,13 @@ End the program and close the output image windows.
 ### Developed By: POOJA A
 ### Register Number: 212222240072
 i) #To Read,display the image
-```
+```python
 image=cv2.imread("pain.jpg",1)
 cv2_imshow(image)  
 
 ```
 ii) #To write the image
-```
+```python
 image = cv2.imread("pain.jpg",-1)
 cv2.imwrite("pain.jpg",image)
 
