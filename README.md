@@ -65,7 +65,8 @@ cv2.waitKey(0)
 ## Output:
 
 ### i) Read and display the image
-![](1.png)
+![WhatsApp Image 2023-11-14 at 02 27 01_df69aa54](https://github.com/poojaanbu0/READ-AND-WRITE-IMAGE/assets/119390329/ee88a2b2-5106-49d9-bd7c-4fc7976f439c)
+
 
 
 
