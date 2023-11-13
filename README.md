@@ -18,6 +18,7 @@ Use imshow(window_name, image) to display the image.
 Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
+
 ## Program:
 ### Developed By: POOJA A
 ### Register Number: 212222240072
@@ -37,7 +38,6 @@ cv2.imwrite("pain.jpg",image)
 iii) #Find the shape of the Image
 ```python3
 print(image.shape)
-
 
 ```
 iv) #To access rows and columns
@@ -67,28 +67,20 @@ cv2.waitKey(0)
 ### i) Read and display the image
 ![WhatsApp Image 2023-11-14 at 02 27 01_df69aa54](https://github.com/poojaanbu0/READ-AND-WRITE-IMAGE/assets/119390329/ee88a2b2-5106-49d9-bd7c-4fc7976f439c)
 
-
-
-
 ### ii)Write the image
+![WhatsApp Image 2023-11-14 at 02 29 25_35f84607](https://github.com/poojaanbu0/READ-AND-WRITE-IMAGE/assets/119390329/0a952da2-78ee-44ca-bdaf-2662df7bf107)
 
-<br>
-
-![](3.jpg)
-
-<br>
 
 ### iii)Shape of the Image
-
-<br>
-
-![](2.jpg)
-
-<br>
+![WhatsApp Image 2023-11-14 at 02 29 41_e6771d2e](https://github.com/poojaanbu0/READ-AND-WRITE-IMAGE/assets/119390329/977fbd2d-30b8-4545-9d5b-58b431e4fe6b)
 
 ### iv)Access rows and columns
+![WhatsApp Image 2023-11-14 at 02 30 06_c5970ada](https://github.com/poojaanbu0/READ-AND-WRITE-IMAGE/assets/119390329/f6b03fb8-3d8d-47f4-8d86-a1812a0462cb)
+
 
 ### v)Cut and paste portion of image
+![WhatsApp Image 2023-11-14 at 02 30 34_54b32ff8](https://github.com/poojaanbu0/READ-AND-WRITE-IMAGE/assets/119390329/44fe307e-67c4-417d-a008-1fc8b8c41138)
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
